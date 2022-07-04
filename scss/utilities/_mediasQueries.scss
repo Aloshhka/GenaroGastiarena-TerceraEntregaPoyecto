@@ -1,0 +1,50 @@
+@media (min-width: 326px) and (max-width: 550px) {
+    header {
+        #info {
+            #banner {
+                height: 80px;
+
+                h1 {
+                    font-size: xx-large;
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 551px) and (max-width: 768px) {
+    header {
+        #info {
+            #banner {
+                height: 80px;
+
+                h1 {
+                    font-size: xx-large;
+                }
+            }
+        }
+
+    }
+
+    body {
+        .containerNos {
+            .staff {
+                justify-content: center;
+            }
+        }
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    header {
+        #info {
+            #banner {
+                height: 80px;
+
+                h1 {
+                    font-size: 45px;
+                }
+            }
+        }
+    }
+}
